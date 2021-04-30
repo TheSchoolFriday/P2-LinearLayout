@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">P2-LinearLayout</string>
+    // This is used for Login Screen.
+    <string name="pName">Name:</string>
+    <string name="pPassword">Password:</string>
+    <string name="pLogin">LOGIN</string>
+    <string name="pCancel">Cancel</string>
+
+    // This one is for testing on Activity 4A.
+    <string name="button_1">Button 1</string>
+    <string name="welcome_to_android">Welcome to Android!</string>
+    <string name="Large">Large Text</string>
+    <string name="button_2">Button 2</string>
+    <string name="first_name">First Name</string>
+    <string name="second_name">Second Name</string>
+    <string name="email">Email</string>
 </resources>
